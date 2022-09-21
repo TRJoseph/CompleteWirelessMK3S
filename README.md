@@ -1,8 +1,8 @@
-## Comprehensive Wireless Set-Up for the Prusa MK3/MK3S 3D Printer
+# Comprehensive Wireless Set-Up for the Prusa MK3/MK3S 3D Printer
 
 Hello! This repository hosts multiple different mini projects/modifications all in one organized package in order to add wireless communication and monitoring to your Prusa MK3/S 3D Printer.
 
-# PrusaLink/Prusa Connect
+## PrusaLink/Prusa Connect
 This software is provided by Prusa Research and aims to provide a wireless experience to your 3D Printer.
 
 Link to guide:
