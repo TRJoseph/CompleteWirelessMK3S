@@ -13,3 +13,4 @@ Required Parts:
 - 16Gb/32Gb/64Gb SD Card: https://a.co/d/cL8JP7L
 - Two .stl Files that provide shielding and mounting for the Pi: https://www.printables.com/model/36118-raspberry-pi-zero-frame-for-einsy-rambo#_ga=2.4796091.928477907.1663790514-1145385291.1662414219
 - GPIo Pin Headers (18/19mm): https://a.co/d/74iuOg9
+- PETG Filament: https://a.co/d/5tQsqOI
