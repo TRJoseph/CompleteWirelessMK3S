@@ -14,3 +14,14 @@ Required Parts:
 - Two .stl Files that provide shielding and mounting for the Pi: https://www.printables.com/model/36118-raspberry-pi-zero-frame-for-einsy-rambo#_ga=2.4796091.928477907.1663790514-1145385291.1662414219
 - GPIo Pin Headers (18/19mm): https://a.co/d/74iuOg9
 - PETG Filament: https://a.co/d/5tQsqOI
+
+
+## ESP32 Live-Feed Camera
+Another essential part of the wireless overhaul to this printer is a streaming camera so you are able to monitor your prints remotely. This can be accomplished with a cheap purchase of an ESP32 camera.
+
+Required Parts for the build:
+- ESP32: https://a.co/d/fkvw7ga
+- Power Supply module to power the Camera: https://a.co/d/hhnKFhK
+
+## Flashing new ESP32 firmware
+I have created a modified version of the Arduino core ESP32 firmware to include functionality using the onboard flashlight to help visuals in low-light situations.
