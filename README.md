@@ -31,6 +31,9 @@ I have created a modified version of the Arduino core ESP32 firmware to include 
 If you wish to use the original code, inside of your Arduino IDE navigate to File > Examples > ESP32 > Camera > CameraWebServer
 
 ## Flashing
+
 Instructions:
-- 
+- Connect the USB to TTL converter to the ESP32 like so:
+
+![flashlight](/Docs/ReadMeImages/flashingesp32.png)
 
