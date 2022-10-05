@@ -2,7 +2,7 @@
 
 Hello! This repository hosts multiple different mini projects/modifications all in one organized package in order to add wireless communication and monitoring to your Prusa MK3/S 3D Printer.
 
-## PrusaLink/Prusa Connect
+# PrusaLink/Prusa Connect
 This software is provided by Prusa Research and aims to provide a wireless experience to your 3D Printer.
 
 Link to guide:
@@ -16,15 +16,21 @@ Required Parts:
 - PETG Filament: https://a.co/d/5tQsqOI
 
 
-## ESP32 Live-Feed Camera
+# ESP32 Live-Feed Camera
 Another essential part of the wireless overhaul to this printer is a streaming camera so you are able to monitor your prints remotely. This can be accomplished with a cheap purchase of an ESP32 camera.
 
 Required Parts for the build:
 - ESP32: https://a.co/d/fkvw7ga
 - Power Supply module to power the Camera: https://a.co/d/hhnKFhK
+- USB to TTL Converter: https://a.co/d/4ICkHfy
 
 I have created a modified version of the Arduino core ESP32 firmware to include functionality using the onboard flashlight to help visuals in low-light situations. This code is available [here](https://github.com/TRJoseph/CompleteWirelessMK3S/tree/main/ESP32). 
+
 ![flashlight](/Docs/ReadMeImages/esp32flashlight.png)
 
 If you wish to use the original code, inside of your Arduino IDE navigate to File > Examples > ESP32 > Camera > CameraWebServer
+
+## Flashing
+Instructions:
+- 
 
