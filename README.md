@@ -37,3 +37,11 @@ Instructions:
 
 ![flashlight](/Docs/ReadMeImages/flashingesp32.png)
 
+- Plug the USB to TTL into your computer
+- Open the code in your Arduino IDE and select the COM port that the USB to TTL corresponds with by navigating to Tools > Port > COMXXX
+- Upload the code
+
+After this is completed you remove all wires from the Camera and re-plug 5V and ground into the Power Supply module that you purchased.
+
+Next you will want to download and print the [Camera Mount](https://github.com/TRJoseph/CompleteWirelessMK3S/tree/main/ESP32CameraMount) that I created to attach to the MK3/S and hold the power supply along with the ESP32
+
