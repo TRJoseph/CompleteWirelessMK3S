@@ -45,3 +45,8 @@ After this is completed you remove all wires from the Camera and re-plug 5V and 
 
 Next you will want to download and print the [Camera Mount](https://github.com/TRJoseph/CompleteWirelessMK3S/tree/main/ESP32CameraMount) that I created to attach to the MK3/S and hold the power supply along with the ESP32
 
+## Final Set-Up
+![printer](/Docs/ReadMeImages/PrusaMK3SWithMount.jpg)
+
+You can access the camera via your browser by navigating to http://192.168.X.X/
+
