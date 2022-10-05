@@ -23,5 +23,8 @@ Required Parts for the build:
 - ESP32: https://a.co/d/fkvw7ga
 - Power Supply module to power the Camera: https://a.co/d/hhnKFhK
 
-## Flashing new ESP32 firmware
-I have created a modified version of the Arduino core ESP32 firmware to include functionality using the onboard flashlight to help visuals in low-light situations.
+I have created a modified version of the Arduino core ESP32 firmware to include functionality using the onboard flashlight to help visuals in low-light situations. This code is available [here](https://github.com/TRJoseph/CompleteWirelessMK3S/tree/main/ESP32). 
+![flashlight](/Docs/ReadMeImages/esp32flashlight.png)
+
+If you wish to use the original code, inside of your Arduino IDE navigate to File > Examples > ESP32 > Camera > CameraWebServer
+
