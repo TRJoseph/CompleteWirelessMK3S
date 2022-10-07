@@ -39,6 +39,7 @@ Instructions:
 
 - Plug the USB to TTL into your computer
 - Open the code in your Arduino IDE and select the COM port that the USB to TTL corresponds with by navigating to Tools > Port > COMXXX
+- Modify the code in the ESP32 file. 'ssid' and 'password' variables need to be changed to your WiFi credentials for the camera to autoconnect to your network.
 - Upload the code
 
 After this is completed you remove all wires from the Camera and re-plug 5V and ground into the Power Supply module that you purchased.
