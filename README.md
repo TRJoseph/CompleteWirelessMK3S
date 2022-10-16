@@ -39,9 +39,15 @@ Instructions:
 
 - Plug the USB to TTL into your computer
 - Open the code in your Arduino IDE and select the COM port that the USB to TTL corresponds with by navigating to Tools > Port > COMXXX
+- Modify the code in the ESP32 file. 'ssid' and 'password' variables need to be changed to your WiFi credentials for the camera to autoconnect to your network.
 - Upload the code
 
 After this is completed you remove all wires from the Camera and re-plug 5V and ground into the Power Supply module that you purchased.
 
-Next you will want to download and print the [Camera Mount](https://github.com/TRJoseph/CompleteWirelessMK3S/tree/main/ESP32CameraMount) that I created to attach to the MK3/S and hold the power supply along with the ESP32
+Next you will want to download and print the [Camera Mount](https://github.com/TRJoseph/CompleteWirelessMK3S/blob/main/ESP32CameraMount/ESP32MountModifiedv7.stl) that I created to attach to the MK3/S to hold the power supply along with the ESP32
+
+## Final Set-Up
+![printer](/Docs/ReadMeImages/PrusaMK3SWithMount.jpg)
+
+You can access the camera via your browser by navigating to http://192.168.X.X/
 
