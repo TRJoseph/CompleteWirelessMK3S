@@ -49,5 +49,5 @@ Next you will want to download and print the [Camera Mount](https://github.com/T
 ## Final Set-Up
 ![printer](/Docs/ReadMeImages/PrusaMK3SWithMount.jpg)
 
-You can access the camera via your browser by navigating to http://192.168.X.X/
+You can access the camera via your browser by navigating to its assigned IP Address
 
